@@ -1,0 +1,36 @@
+label {
+  display: block;
+  margin-top: 8px;
+  font-size: 48px;
+}
+
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+  height: 48px;
+  width: 440px;
+  font-size: 40px;
+}
+
+button {
+  display: block;
+  margin-top: 12px;
+  height: 48px;
+  font-size: 24px;
+}
+
+form {
+  margin-top: 24px;
+  border-top: 4px solid black;
+}
+
+.settings {
+  margin-top: 24px;
+  border-top: 2px solid black;
+}
+
+h2 {
+  font-size: 38px;
+}
