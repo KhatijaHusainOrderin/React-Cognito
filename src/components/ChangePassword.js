@@ -6,6 +6,7 @@ export default () => {
   const [newPassword, setNewPassword] = useState("");
 
   const { getSession } = useContext(AccountContext);
+  
 
   const onSubmit = (event) => {
     event.preventDefault();
